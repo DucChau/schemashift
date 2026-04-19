@@ -1,0 +1,5 @@
+id,name,unit_price,category,in_stock,warehouse_id
+1,Widget,9.99,hardware,true,WH-01
+2,Gadget,24.50,electronics,true,WH-02
+3,Doohickey,4.99,hardware,false,WH-01
+4,Thingamajig,14.99,misc,true,WH-03
